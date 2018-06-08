@@ -5,3 +5,6 @@
 # @File : my_scrapy.py
 
 import scrapy
+
+if __name__ == '__main__':
+    print('1111')
